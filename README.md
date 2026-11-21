@@ -4,7 +4,7 @@
 
 ### Programmer | Cloud Security | Network Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Programmer+%7C+Problem+Solver;Cloud+Security+Enthusiast;Network+Engineering+Student;Building+Secure+Cloud+Solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Programmer+%7C+Problem+Solver;Cloud+Security+Enthusiast;Network+Engineering+Enthusiast;Building+Secure+Cloud+Solutions" alt="Typing SVG"/>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/>
 
@@ -18,14 +18,13 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Ahmed Nasser Mohamed**, a Programmer and IT student interested in Cloud Security, Network Engineering, and Software Development.
+Hello! I'm **Ahmed Nasser Mohamed**, a Programmer interested in Cloud Security, Network Engineering, and Software Development.
 
-- 🎓 Studying Information Technology.
+- 💻 Programmer passionate about building software solutions.
 - ☁️ Learning AWS Cloud Computing and Cloud Security.
-- 🌐 Building my knowledge in Network Engineering and Infrastructure.
+- 🌐 Developing skills in Network Engineering and Infrastructure.
 - 🔐 Interested in Cybersecurity and Secure Cloud Architecture.
-- 💻 Programming with Python, C++, and JavaScript.
-- 🚀 Working on practical projects to improve my technical skills.
+- 🚀 Building practical projects and improving my technical skills.
 - 🎯 My goal is to become a professional Cloud Security Engineer.
 
 ---
